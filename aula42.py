@@ -15,6 +15,7 @@ while i < len(frase):
         letra_que_apareceu_mais_vezes = letra_atual
     
     i += 1
+    
 
     print('A letra que aparceu mais vezes foi '
           f'{letra_que_apareceu_mais_vezes} que apareceu '
